@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Isaiah 👋
+
+I have moved to a different account, but this still has commits from me. Here is my primary GitHub: https://github.com/ShinyRayquay
 
 <!--
 **IsaMak/IsaMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
